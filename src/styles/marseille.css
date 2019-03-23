@@ -1,0 +1,135 @@
+.marseille .card {
+    background-size: contain;
+    width: 7em; 
+    height: calc(7em * 1.937);
+    margin-bottom: -7em;
+    margin-right: -3em;
+    border-radius: 0.5em;
+}
+.marseille .cardText {
+    display: none;
+}
+.marseille .a01 { background-image: url("../assets/a01.jpg"); }
+.marseille .a02 { background-image: url("../assets/a02.jpg"); }
+.marseille .a03 { background-image: url("../assets/a03.jpg"); }
+.marseille .a04 { background-image: url("../assets/a04.jpg"); }
+.marseille .a05 { background-image: url("../assets/a05.jpg"); }
+.marseille .a06 { background-image: url("../assets/a06.jpg"); }
+.marseille .a07 { background-image: url("../assets/a07.jpg"); }
+.marseille .a08 { background-image: url("../assets/a08.jpg"); }
+.marseille .a09 { background-image: url("../assets/a09.jpg"); }
+.marseille .a10 { background-image: url("../assets/a10.jpg"); }
+.marseille .a11 { background-image: url("../assets/a11.jpg"); }
+.marseille .a12 { background-image: url("../assets/a12.jpg"); }
+.marseille .a13 { background-image: url("../assets/a13.jpg"); }
+.marseille .a14 { background-image: url("../assets/a14.jpg"); }
+.marseille .a15 { background-image: url("../assets/a15.jpg"); }
+.marseille .a16 { background-image: url("../assets/a16.jpg"); }
+.marseille .a17 { background-image: url("../assets/a17.jpg"); }
+.marseille .a18 { background-image: url("../assets/a18.jpg"); }
+.marseille .a19 { background-image: url("../assets/a19.jpg"); }
+.marseille .a20 { background-image: url("../assets/a20.jpg"); }
+.marseille .a21 { background-image: url("../assets/a21.jpg"); }
+.marseille .a00 { background-image: url("../assets/a22.jpg"); }
+
+.marseille .b01 { background-image: url("../assets/b01.jpg"); }
+.marseille .b02 { background-image: url("../assets/b02.jpg"); }
+.marseille .b03 { background-image: url("../assets/b03.jpg"); }
+.marseille .b04 { background-image: url("../assets/b04.jpg"); }
+.marseille .b05 { background-image: url("../assets/b05.jpg"); }
+.marseille .b06 { background-image: url("../assets/b06.jpg"); }
+.marseille .b07 { background-image: url("../assets/b07.jpg"); }
+.marseille .b08 { background-image: url("../assets/b08.jpg"); }
+.marseille .b09 { background-image: url("../assets/b09.jpg"); }
+.marseille .b10 { background-image: url("../assets/b10.jpg"); }
+.marseille .b11 { background-image: url("../assets/b11.jpg"); }
+.marseille .b12 { background-image: url("../assets/b12.jpg"); }
+.marseille .b13 { background-image: url("../assets/b13.jpg"); }
+.marseille .b14 { background-image: url("../assets/b14.jpg"); }
+
+.marseille .c01 { background-image: url("../assets/c10.jpg"); }
+.marseille .c02 { background-image: url("../assets/c09.jpg"); }
+.marseille .c03 { background-image: url("../assets/c08.jpg"); }
+.marseille .c04 { background-image: url("../assets/c07.jpg"); }
+.marseille .c05 { background-image: url("../assets/c06.jpg"); }
+.marseille .c06 { background-image: url("../assets/c05.jpg"); }
+.marseille .c07 { background-image: url("../assets/c04.jpg"); }
+.marseille .c08 { background-image: url("../assets/c03.jpg"); }
+.marseille .c09 { background-image: url("../assets/c02.jpg"); }
+.marseille .c10 { background-image: url("../assets/c01.jpg"); }
+.marseille .c11 { background-image: url("../assets/c11.jpg"); }
+.marseille .c12 { background-image: url("../assets/c12.jpg"); }
+.marseille .c13 { background-image: url("../assets/c13.jpg"); }
+.marseille .c14 { background-image: url("../assets/c14.jpg"); }
+
+.marseille .d01 { background-image: url("../assets/d10.jpg"); }
+.marseille .d02 { background-image: url("../assets/d09.jpg"); }
+.marseille .d03 { background-image: url("../assets/d08.jpg"); }
+.marseille .d04 { background-image: url("../assets/d07.jpg"); }
+.marseille .d05 { background-image: url("../assets/d06.jpg"); }
+.marseille .d06 { background-image: url("../assets/d05.jpg"); }
+.marseille .d07 { background-image: url("../assets/d04.jpg"); }
+.marseille .d08 { background-image: url("../assets/d03.jpg"); }
+.marseille .d09 { background-image: url("../assets/d02.jpg"); }
+.marseille .d10 { background-image: url("../assets/d01.jpg"); }
+.marseille .d11 { background-image: url("../assets/d11.jpg"); }
+.marseille .d12 { background-image: url("../assets/d12.jpg"); }
+.marseille .d13 { background-image: url("../assets/d13.jpg"); }
+.marseille .d14 { background-image: url("../assets/d14.jpg"); }
+
+.marseille .e01 { background-image: url("../assets/e01.jpg"); }
+.marseille .e02 { background-image: url("../assets/e02.jpg"); }
+.marseille .e03 { background-image: url("../assets/e03.jpg"); }
+.marseille .e04 { background-image: url("../assets/e04.jpg"); }
+.marseille .e05 { background-image: url("../assets/e05.jpg"); }
+.marseille .e06 { background-image: url("../assets/e06.jpg"); }
+.marseille .e07 { background-image: url("../assets/e07.jpg"); }
+.marseille .e08 { background-image: url("../assets/e08.jpg"); }
+.marseille .e09 { background-image: url("../assets/e09.jpg"); }
+.marseille .e10 { background-image: url("../assets/e10.jpg"); }
+.marseille .e11 { background-image: url("../assets/e11.jpg"); }
+.marseille .e12 { background-image: url("../assets/e12.jpg"); }
+.marseille .e13 { background-image: url("../assets/e13.jpg"); }
+.marseille .e14 { background-image: url("../assets/e14.jpg"); }
+
+.z00 { 
+    background: repeating-linear-gradient(
+        45deg,
+		transparent,
+		transparent 5px,
+		lightcoral 5px,
+		lightcoral 10px,
+		transparent 10px,
+		transparent 15px,
+		lightcoral 10px,
+		lightcoral 20px,
+		transparent 20px,
+		transparent 25px,
+		lightcoral 25px,
+		lightcoral 25px,
+		transparent 25px,
+		transparent 25px
+	),
+	repeating-linear-gradient(
+		-45deg,
+		transparent,
+		transparent 5px,
+		lightblue 5px,
+		lightblue 10px,
+		transparent 10px,
+		transparent 15px,
+		lightblue 10px,
+		lightblue 20px,
+		transparent 20px,
+		transparent 25px,
+		lightblue 25px,
+		lightblue 25px,
+		transparent 25px,
+		transparent 25px
+	), floralwhite;
+    background-blend-mode: multiply;
+} 
+.z00 .cardText {
+    display: none;
+}
+   /* background-image: url("../assets/nouveau-back.jpg"); } */

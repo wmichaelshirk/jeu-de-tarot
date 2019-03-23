@@ -1,0 +1,125 @@
+.nouveau .card {
+    background-size: cover;
+    background-position: center;
+    width: 7em; 
+    height: calc(7em * 1.77);
+    margin-bottom: -7em;
+    margin-right: -3em;
+    border-radius: 1em;
+    /* box-shadow: -2px -2px 6px 0px rgba(136,136,136,0.55); */
+}
+.nouveau .card-inner,
+.nouveau .card-front,
+.nouveau .card-back {
+    border-radius: 1em;
+}
+.nouveau .cardText {
+    /* display: none; */
+    text-align: center;
+    position: relative;
+    top: .5em;
+    left: .5em;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px whitesmoke;
+    line-height: 1.2;
+    position: relative;
+    width: 1em;
+}
+.nouveau .a01 .cardText, .nouveau .a02 .cardText,
+.nouveau .a03 .cardText, .nouveau .a04 .cardText,
+.nouveau .a05 .cardText, .nouveau .a06 .cardText,
+.nouveau .a07 .cardText, .nouveau .a08 .cardText,
+.nouveau .a09 .cardText, .nouveau .a10 .cardText,
+.nouveau .a11 .cardText, .nouveau .a12 .cardText, 
+.nouveau .a13 .cardText, .nouveau .a14 .cardText, 
+.nouveau .a15 .cardText, .nouveau .a16 .cardText, 
+.nouveau .a17 .cardText, .nouveau .a18 .cardText, 
+.nouveau .a19 .cardText, .nouveau .a20 .cardText,
+.nouveau .a21 .cardText, .nouveau .a22 .cardText {
+    display: none;
+}
+
+.nouveau .a01 { background-image: url("../assets/t01.jpg"); }
+.nouveau .a02 { background-image: url("../assets/t02.jpg"); }
+.nouveau .a03 { background-image: url("../assets/t03.jpg"); }
+.nouveau .a04 { background-image: url("../assets/t04.jpg"); }
+.nouveau .a05 { background-image: url("../assets/t05.jpg"); }
+.nouveau .a06 { background-image: url("../assets/t06.jpg"); }
+.nouveau .a07 { background-image: url("../assets/t07.jpg"); }
+.nouveau .a08 { background-image: url("../assets/t08.jpg"); }
+.nouveau .a09 { background-image: url("../assets/t09.jpg"); }
+.nouveau .a10 { background-image: url("../assets/t10.jpg"); }
+.nouveau .a11 { background-image: url("../assets/t11.jpg"); }
+.nouveau .a12 { background-image: url("../assets/t12.jpg"); }
+.nouveau .a13 { background-image: url("../assets/t13.jpg"); }
+.nouveau .a14 { background-image: url("../assets/t14.jpg"); }
+.nouveau .a15 { background-image: url("../assets/t15.jpg"); }
+.nouveau .a16 { background-image: url("../assets/t16.jpg"); }
+.nouveau .a17 { background-image: url("../assets/t17.jpg"); }
+.nouveau .a18 { background-image: url("../assets/t18.jpg"); }
+.nouveau .a19 { background-image: url("../assets/t19.jpg"); }
+.nouveau .a20 { background-image: url("../assets/t20.jpg"); }
+.nouveau .a21 { background-image: url("../assets/t21.jpg"); }
+.nouveau .a00 { background-image: url("../assets/excuse.jpg"); }
+
+.nouveau .b01 { background-image: url("../assets/1C.jpg"); }
+.nouveau .b02 { background-image: url("../assets/2C.jpg"); }
+.nouveau .b03 { background-image: url("../assets/3C.jpg"); }
+.nouveau .b04 { background-image: url("../assets/4C.jpg"); }
+.nouveau .b05 { background-image: url("../assets/5C.jpg"); }
+.nouveau .b06 { background-image: url("../assets/6C.jpg"); }
+.nouveau .b07 { background-image: url("../assets/7C.jpg"); }
+.nouveau .b08 { background-image: url("../assets/8C.jpg"); }
+.nouveau .b09 { background-image: url("../assets/9C.jpg"); }
+.nouveau .b10 { background-image: url("../assets/10C.jpg"); }
+.nouveau .b11 { background-image: url("../assets/JC.jpg"); }
+.nouveau .b12 { background-image: url("../assets/CC.jpg"); }
+.nouveau .b13 { background-image: url("../assets/QC.jpg"); }
+.nouveau .b14 { background-image: url("../assets/KC.jpg"); }
+
+.nouveau .c01 { background-image: url("../assets/1H.jpg"); }
+.nouveau .c02 { background-image: url("../assets/2H.jpg"); }
+.nouveau .c03 { background-image: url("../assets/3H.jpg"); }
+.nouveau .c04 { background-image: url("../assets/4H.jpg"); }
+.nouveau .c05 { background-image: url("../assets/5H.jpg"); }
+.nouveau .c06 { background-image: url("../assets/6H.jpg"); }
+.nouveau .c07 { background-image: url("../assets/7H.jpg"); }
+.nouveau .c08 { background-image: url("../assets/8H.jpg"); }
+.nouveau .c09 { background-image: url("../assets/9H.jpg"); }
+.nouveau .c10 { background-image: url("../assets/TH.jpg"); }
+.nouveau .c11 { background-image: url("../assets/JH.jpg"); }
+.nouveau .c12 { background-image: url("../assets/CH.jpg"); }
+.nouveau .c13 { background-image: url("../assets/QH.jpg"); }
+.nouveau .c14 { background-image: url("../assets/KH.jpg"); }
+
+.nouveau .d01 { background-image: url("../assets/1D.jpg"); }
+.nouveau .d02 { background-image: url("../assets/2D.jpg"); }
+.nouveau .d03 { background-image: url("../assets/3D.jpg"); }
+.nouveau .d04 { background-image: url("../assets/4D.jpg"); }
+.nouveau .d05 { background-image: url("../assets/5D.jpg"); }
+.nouveau .d06 { background-image: url("../assets/6D.jpg"); }
+.nouveau .d07 { background-image: url("../assets/7D.jpg"); }
+.nouveau .d08 { background-image: url("../assets/8D.jpg"); }
+.nouveau .d09 { background-image: url("../assets/9D.jpg"); }
+.nouveau .d10 { background-image: url("../assets/TD.jpg"); }
+.nouveau .d11 { background-image: url("../assets/JD.jpg"); }
+.nouveau .d12 { background-image: url("../assets/CD.jpg"); }
+.nouveau .d13 { background-image: url("../assets/QD.jpg"); }
+.nouveau .d14 { background-image: url("../assets/KD.jpg"); }
+
+.nouveau .e01 { background-image: url("../assets/1S.jpg"); }
+.nouveau .e02 { background-image: url("../assets/2S.jpg"); }
+.nouveau .e03 { background-image: url("../assets/3S.jpg"); }
+.nouveau .e04 { background-image: url("../assets/4S.jpg"); }
+.nouveau .e05 { background-image: url("../assets/5S.jpg"); }
+.nouveau .e06 { background-image: url("../assets/6S.jpg"); }
+.nouveau .e07 { background-image: url("../assets/7S.jpg"); }
+.nouveau .e08 { background-image: url("../assets/8S.jpg"); }
+.nouveau .e09 { background-image: url("../assets/9S.jpg"); }
+.nouveau .e10 { background-image: url("../assets/TS.jpg"); }
+.nouveau .e11 { background-image: url("../assets/JS.jpg"); }
+.nouveau .e12 { background-image: url("../assets/CS.jpg"); }
+.nouveau .e13 { background-image: url("../assets/QS.jpg"); }
+.nouveau .e14 { background-image: url("../assets/KS.jpg"); }
+
+/* .nouveau .z00 { background-image: url("../assets/nouveau-back.jpg"); } */
